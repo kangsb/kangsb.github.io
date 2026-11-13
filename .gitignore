@@ -1,0 +1,4 @@
+# 디자인 시안(참고용)은 저장소/배포에 포함하지 않는다
+_design/
+.DS_Store
+CLAUDE.md
